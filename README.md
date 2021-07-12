@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm an Mechanical Engineer, a data science enthusiast and an aspiring Data Scientist </h3>
 
 
-- 👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.
+- <!--👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.-->
 
 - 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **Mechanical Engineering** !
 
