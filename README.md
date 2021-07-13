@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Shivam</h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Shivam Mishra </h1>
 <h3 align="center">I'm an Mechanical Engineer, a data science enthusiast and an aspiring Data Scientist </h3>
 
 
