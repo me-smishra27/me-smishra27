@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
  <!--👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.-->
 
-- 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **Mechanical Engineering** !
+- 💬 Ask me about **Machine Learning, Data Analysis** and maybe some **Deep Learning** !
 
 
 ### Skills
