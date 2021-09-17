@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Shivam Mishra </h1>
-<h3 align="center">I'm an System Engineer working in TCS </h3>
+<h3 align="center"> Working as System Engineer in TCS </h3>
 
 
  <!--👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.-->
