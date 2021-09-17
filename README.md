@@ -42,9 +42,9 @@ I am experienced in:
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://me-smishra27.medium.com/">
+<!--  <a href="https://me-smishra27.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;-->
   
   
 </p>
