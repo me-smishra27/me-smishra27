@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey <img src="Hi.gif" width="40px" />, I'm Shivam Mishra </h1>
-<h3 align="center">I'm an System Engineer working in TCS, a data science enthusiast and an aspiring Data Scientist </h3>
+<h3 align="center">I'm an System Engineer working in TCS, looking for Data Scientist roles </h3>
 
 
  <!--👯 I'm currently doing Ken Jee's 66 Day Challenge and learning deployment of ML models.-->
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Skills
 I am experienced in:
-- Statistical Modelling and Data Analysis with Python, SQL, Plotly and Tableau.
+- Statistical Modelling and Data Analysis with Python, SQL.
 - Data Science and Machine Learning using Keras, sklearn, Pytorch
 
 
